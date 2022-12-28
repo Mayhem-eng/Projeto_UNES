@@ -4,7 +4,7 @@
     position: absolute;
     text-align: center;
     margin-top: 8.7em;
-    margin-left:20.6em;
+    margin-left:24em;
     padding: 15px;
     background-color: #FFF;
 
@@ -32,7 +32,7 @@
 
 .texto{
     position: relative;
-    padding-right: 14em;
+    padding-right: 15.8em;
 }
 
 table{
@@ -48,13 +48,13 @@ h2{
 
 .checkbox{
     position: absolute;
-    right: 21.8em;
+    right: 23.7em;
     
 }
 
 .logado{
     position: relative;
-    padding-right: 13em;
+    padding-right: 13.9em;
     font-size: 0.8em;
 }
 
