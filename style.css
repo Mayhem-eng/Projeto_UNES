@@ -1,0 +1,85 @@
+.borda{
+    border-style: solid;
+    border-width: 0.1em;
+    position: absolute;
+    text-align: center;
+    margin-top: 8.7em;
+    margin-left:20.6em;
+    padding: 15px;
+    background-color: #FFF;
+
+}
+.login{
+    position: relative;
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-top: 10px;
+    background-color: #FFF;
+    color: #000;
+    font-weight: 600;
+    
+    }
+
+.login:hover{
+    position: relative;
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-top: 10px;
+    background-color: #ADD8E6;
+    color: #000;
+    font-weight: 600;
+    }
+
+.texto{
+    position: relative;
+    padding-right: 14em;
+}
+
+table{
+    position: absolute;
+    padding-left: 90px;
+     
+   
+}
+h2{
+    position: relative;
+    margin-top: -19px;
+}
+
+.checkbox{
+    position: absolute;
+    right: 21.8em;
+    
+}
+
+.logado{
+    position: relative;
+    padding-right: 13em;
+    font-size: 0.8em;
+}
+
+.cadastro{
+    position: relative;
+    top: 10px;
+    font-size: 0.8em;
+}
+
+.buttom{
+    position: relative;
+    top: 10px;
+    font-size: 0.7em;
+    background-color: #FFF;
+    border: none;
+}
+.buttom:hover{
+    position: relative;
+    top: 10px;
+    font-size: 0.7em;
+    background-color: 	#ADD8E6;
+    border-style: solid;
+    border-color: #000;
+    border-width: 0.1em;
+}
+body{
+background-color: #DCDCDC;
+}
